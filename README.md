@@ -6,5 +6,6 @@
  - Output: Kết quả (Phép tính = Kết quả)
 ### 1.2. GCD
  - Input: 2 số nguyên dương (1 - 2^32-1)
- - Output: 
+ - Output: UCLN 
 ### 1.3. Exit
+ - Thoat man hinh
